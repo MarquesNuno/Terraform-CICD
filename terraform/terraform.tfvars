@@ -1,4 +1,4 @@
 location             = "northeurope"
-resource_group_name  = "rg-lab5-studentnuno"
-storage_account_name = "stlab5studentnuno"
+resource_group_name  = "rg-lab5-student"
+storage_account_name = "stlab5student01"
 container_name       = "lab-container"
