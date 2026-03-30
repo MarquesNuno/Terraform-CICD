@@ -18,6 +18,3 @@ resource "azurerm_storage_container" "container" {
 }
 
 
-
-
-
